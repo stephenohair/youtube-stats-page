@@ -1,6 +1,8 @@
 # youtube-stats-page
 Very basic YouTube channel statistics page that uses the YouTube Data API v3.
 
+<img src="example.png" width="30%">
+
 This is heavily based on **John Kormanicki's** code example as found here: https://www.youtube.com/watch?v=pSJPGzSqIJI
 
 I've made the following additions:
