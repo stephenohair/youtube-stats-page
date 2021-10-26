@@ -21,7 +21,7 @@ Add the following to app.js:
 * YouTube Channel ID
 * Statistics update interval
 
-**Note:**YouTube seem to update the channel stats slowly, in some cases hours.
+**Note:** YouTube seem to update the channel stats slowly, in some cases hours.
 
 ## Testing
 To test this page, open the index.html locally in a browser.
