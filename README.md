@@ -14,7 +14,10 @@ I've made the following additions:
 This is intended to provide very basic YouTube statistics that's hosted on a low powered device such as a Raspberry Pi with a screen and access to the internet.
 
 ## Configuration
-To use this you will need to log into the Google Cloud Platform console for your YouTube channel's google account. You will then need to add the YouTube Data API v3 API. Once it's added you then need to generate an API key and ensure you restrict the key to only have access to the YouTube API data v.3. API.
+To use this you will need to:
+1. Log into the Google Cloud Platform console for your YouTube channel's google account. 
+2. You will then need to add the YouTube Data API v3 API. 
+3. Once it's added you then need to generate an API key and ensure you restrict the key to only have access to the YouTube API data v.3. API.
 
 Add the following to app.js:
 * API Key
